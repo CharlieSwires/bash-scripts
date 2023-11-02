@@ -1,18 +1,20 @@
 # bash-scripts
 
-#count.sh
+# count.sh
 
 Counts lines of code excludes binary files and blank lines of text
 
-#findExtension.sh
+# findExtension.sh
 
 Finds the location of files with the given extension
 
-#findFilename.sh
+# findFilename.sh
 
 Finds the location of files with the given name any extension
+
 =============================================================
-#Usage
+
+# Usage
 
 Go to the bash-script directory and type:
 ./count.sh dir
