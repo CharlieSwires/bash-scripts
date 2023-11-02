@@ -1,5 +1,14 @@
 # bash-scripts
 
+# Download
+
+<p>Run git bash if not loaded go to https://git-scm.com/downloads</p>
+<p> git clone https://github.com/CharlieSwires/bash-scripts</p>
+
+====================================================================
+
+# Scripts
+
 # count.sh
 
 Counts lines of code excludes binary files and blank lines of text
