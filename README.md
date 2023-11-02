@@ -17,7 +17,7 @@ Finds the location of files with the given name any extension
 # Usage
 
 Go to the bash-script directory and type:
-./count.sh dir
-./findExtension.sh dir extension
-./findFilename.sh dir filename
+<p>./count.sh dir</p>
+<p>./findExtension.sh dir extension</p>
+<p>./findFilename.sh dir filename</p>
 
